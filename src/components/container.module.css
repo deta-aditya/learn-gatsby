@@ -1,0 +1,13 @@
+.container {
+	margin: 3rem auto;
+	padding: 0 1.5rem;
+	max-width: 600px;
+}
+
+.navbar {
+	margin-bottom: 1rem;
+}
+
+.navbar-item {
+	margin-right: 0.8rem;
+}
